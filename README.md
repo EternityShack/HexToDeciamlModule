@@ -1,1 +1,1 @@
-# HexToDeciamlModule
+#[ModKit Wiki](../../wiki)
